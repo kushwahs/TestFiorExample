@@ -6,7 +6,7 @@
     "targetFolder": "dist",
     "sourceFolder": "webapp"
   },
-  "generation": [
+  "generation1": [
     {
       "templateId": "ui5template.basicSAPUI5ApplicationProject",
       "templateVersion": "1.28.4",
